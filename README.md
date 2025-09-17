@@ -14,6 +14,10 @@ function yo() {
   console.log("Hello!");
 }
 ```
+
+Полезная ссылка
+https://www.youtube.com/@xinxin1011
+
 ![IMG_1095](https://github.com/user-attachments/assets/2940ca6a-08b6-4191-8943-692259fb9e67)
 
 ## Занятие по пайке робота!
